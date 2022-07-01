@@ -32,7 +32,7 @@ public class class3part3
 	}
 public static void main(String[] args) 
 {
-	class3part3 obj=new class3part3(12, 13, 14, 15);
+	class3part3 obj=new class3part3(12, 13, 16, 15);
 }
 
 }

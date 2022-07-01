@@ -3,7 +3,7 @@ package pkg1;
 public class constructor {
 	public constructor()
 	{
-		this(1,2);
+		this(3,2);
 		System.out.println("default");                             // one, two, default 
 	}
 	

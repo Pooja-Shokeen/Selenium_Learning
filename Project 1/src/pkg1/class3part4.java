@@ -11,7 +11,7 @@ public class class3part4
 	{
 		this.m();                            // will call m
 		System.out.println("first method");
-		this.m2();                           // will call m2
+		                           
 	}
 	public void m2()
 	{

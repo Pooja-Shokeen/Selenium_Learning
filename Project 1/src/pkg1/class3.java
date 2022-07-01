@@ -21,7 +21,7 @@ public static void main(String[] args)
 {
 	class3 ob=new class3();
 	class3 ob1=new class3(5);
-	class3 ob2=new class3(5.5F, 10);   //for float values use F after 5.5
+	class3 ob2=new class3(5F, 10);   //for float values use F after 5.5
 	
 	
 }

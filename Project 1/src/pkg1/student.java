@@ -15,7 +15,7 @@ public class student
     public static void main(String[] args) 
     {
     	student ob=new student();
-    	ob.rollno=1;
+    	ob.rollno=3;
     	System.out.println(ob.rollno);
     	ob.age=18;
     	System.out.println(ob.age);

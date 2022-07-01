@@ -39,6 +39,7 @@ public class arithmetic
 		int sub2 = A.sub(sub1, 2);
 		int sum1 = A.sum( sub2, 2);
 		A.multi(sum1, 2);
+		System.out.println("multi");
 		
 		
 		

@@ -14,7 +14,7 @@ public class class1
 		p.a=15;
 		System.out.println(p.a);
 		p.a=5;
-		System.out.println(p.a);
+		
 		
 	}
 
